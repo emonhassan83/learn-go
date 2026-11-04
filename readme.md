@@ -14,7 +14,8 @@ learn-go/
 │   ├── main.go            # Application entry point (simplified)
 │   ├── variable.go        # Variable types, zero values, and formatting demos
 │   ├── function.go        # Function declarations and execution examples
-│   └── if-else-switch.go  # Conditional statements (if, else, switch) examples
+│   ├── if-else-switch.go  # Conditional statements (if, else, switch) examples
+│   └── for-loop.go        # For loop, break, and continue problem examples
 │
 └── readme.md           # Documentation, commands, and important Go concepts
 ```

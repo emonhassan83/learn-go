@@ -19,5 +19,8 @@ func main() {
 	fmt.Println(makeCof)
 
 	// 4. If, Else & Switch practice (defined in if-else-switch.go)
-	practiceIfElseSwitch()
+	// practiceIfElseSwitch()
+
+	// 5. For loop, break & continue practice (defined in for-loop.go)
+	practiceForLoop()
 }
