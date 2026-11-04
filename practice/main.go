@@ -22,5 +22,8 @@ func main() {
 	// practiceIfElseSwitch()
 
 	// 5. For loop, break & continue practice (defined in for-loop.go)
-	practiceForLoop()
+	// practiceForLoop()
+
+	// 6. Slice capacity practice (defined in array.go)
+	practiceSliceCapacity()
 }
