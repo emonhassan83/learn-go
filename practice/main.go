@@ -25,5 +25,8 @@ func main() {
 	// practiceForLoop()
 
 	// 6. Slice capacity practice (defined in array.go)
-	practiceSliceCapacity()
+	// practiceSliceCapacity()
+
+	// 7. Struct & Constructor practice (defined in struct.go)
+	practiceStruct()
 }

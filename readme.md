@@ -16,7 +16,8 @@ learn-go/
 │   ├── function.go        # Function declarations and execution examples
 │   ├── if-else-switch.go  # Conditional statements (if, else, switch) examples
 │   ├── for-loop.go        # For loop, break, and continue problem examples
-│   └── array.go           # Array vs Slice, length, and capacity examples
+│   ├── array.go           # Array vs Slice, length, and capacity examples
+│   └── struct.go          # Struct, methods, and constructor function examples
 │
 └── readme.md           # Documentation, commands, and important Go concepts
 ```
